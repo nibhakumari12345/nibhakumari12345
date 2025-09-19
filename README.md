@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Nibha Kumari  
 
-<!--
-**nibhakumari12345/nibhakumari12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer | Web Developer | Problem Solver  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me  
+- 🎓 B.Tech ECE @ Haldia Institute of Technology (2026)  
+- 💻 Skilled in **Java, React.js, C++, SQL**  
+- 🌱 Exploring **Cloud Computing & Full-Stack Development**  
+- ⚡ Love solving coding challenges on LeetCode  
+
+---
+
+## 🛠️ Tech Stack  
+- **Languages:** Java, C++, JavaScript, SQL  
+- **Frameworks:** React.js, Tailwind CSS, Spring Boot (Basics)  
+- **Databases:** MySQL, Firebase  
+
+---
+
+## 📌 Featured Projects  
+- 📝 **Student Management System** – Java + JDBC + MySQL  
+- 📚 **Educational Resources Dashboard** – React.js + Firebase  
+- 🔍 **DSA Visualizer** – Interactive tool for algorithms  
+
+---
+
+## 📊 GitHub Stats  
+![Nibha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nibhakumari12345&show_icons=true&theme=radical)  
+
+---
+
+## 🌐 Connect With Me  
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/Nibha_kumari5/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/nibhakumari12345)  
+📧 Email: qnibhakumari@gmail.com  
